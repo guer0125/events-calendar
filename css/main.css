@@ -1,5 +1,5 @@
 html {
-  font-family: "Merriweather", serif;
+  font-family: Merriweather, serif;
 }
 
 table {
@@ -8,12 +8,10 @@ table {
 
 th, td {
   border: 1px solid #ccc;
-  font-weight: bold;
 }
 
 td {
   height: 10em;
-  width: 15em:
 }
 
 .greybox {
